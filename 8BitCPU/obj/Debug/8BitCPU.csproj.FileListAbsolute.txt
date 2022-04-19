@@ -1,0 +1,21 @@
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\8BitCPU\8BitCPU\obj\Debug\8BitCPU.csprojAssemblyReference.cache
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\8BitCPU\8BitCPU\obj\Debug\_8BitCPU.Properties.Resources.resources
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\8BitCPU\8BitCPU\obj\Debug\8BitCPU.csproj.GenerateResource.cache
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\8BitCPU\8BitCPU\obj\Debug\8BitCPU.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\8BitCPU\8BitCPU\bin\Debug\8BitCPU.exe.config
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\8BitCPU\8BitCPU\bin\Debug\8BitCPU.exe
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\8BitCPU\8BitCPU\bin\Debug\8BitCPU.pdb
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\8BitCPU\8BitCPU\obj\Debug\_8BitCPU.Form1.resources
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\8BitCPU\8BitCPU\obj\Debug\8BitCPU.exe
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\8BitCPU\8BitCPU\obj\Debug\8BitCPU.pdb
+C:\Users\narro\Downloads\8BitCPU\8BitCPU\bin\Debug\8BitCPU.exe.config
+C:\Users\narro\Downloads\8BitCPU\8BitCPU\bin\Debug\8BitCPU.exe
+C:\Users\narro\Downloads\8BitCPU\8BitCPU\bin\Debug\8BitCPU.pdb
+C:\Users\narro\Downloads\8BitCPU\8BitCPU\obj\Debug\_8BitCPU.Form1.resources
+C:\Users\narro\Downloads\8BitCPU\8BitCPU\obj\Debug\_8BitCPU.Properties.Resources.resources
+C:\Users\narro\Downloads\8BitCPU\8BitCPU\obj\Debug\8BitCPU.csproj.GenerateResource.cache
+C:\Users\narro\Downloads\8BitCPU\8BitCPU\obj\Debug\8BitCPU.csproj.CoreCompileInputs.cache
+C:\Users\narro\Downloads\8BitCPU\8BitCPU\obj\Debug\8BitCPU.exe
+C:\Users\narro\Downloads\8BitCPU\8BitCPU\obj\Debug\8BitCPU.pdb
+C:\Users\narro\Downloads\8BitCPU\8BitCPU\obj\Debug\8BitCPU.csproj.AssemblyReference.cache
+C:\Users\narro\Downloads\8BitCPU\8BitCPU\obj\Debug\8BitCPU.csproj.SuggestedBindingRedirects.cache
